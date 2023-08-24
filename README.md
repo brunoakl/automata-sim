@@ -1,6 +1,6 @@
 ## Projeto para Simulador de Autômatos Finitos
 
-## Autores: Bruno Machado, Ernani Neto, Fábio Gomes e Ryan Henrique
+## Autores: Bruno Machado Ferreira, Ernani Neto, Fábio Gomes e Ryan Henrique Nantes
 
 ### Testado em:
 - Ubuntu 23.04 e 24.04 LTS
@@ -25,7 +25,7 @@ Abra o terminal na pasta do projeto e execute usando Python 3
 
 ## Escolha uma das opções do menu e siga as orientações do terminal.
 ### Descrição:
-O projeto é composto por um menu para escolher o método de criação do autômato com subpáginas para decidir entre AFD ou AFND.
+O projeto é composto por um menu no terminal para escolher o método de criação do autômato com subpáginas para decidir entre AFD ou AFND.
 Selecionando um dos padrões do sistema, o programa vai apresentar o resultado e esperar um ENTER de confirmação. 
 Ao confirmar, o programa pedirá uma cadeia para teste, apontará se ela e válida vai demonstrar seu passo a passo pelo autômato.
 Selecionando um dos métodos manuais, o programa usa os dados de um autômato(estados, alfabeto, transições, etc.) fornecidos pelo usuário 	 e procede com testes e apresentação, assim como no método automático.
