@@ -16,7 +16,7 @@
 ## Para instalar as dependências para Conda e Python, abra um terminal na pasta do projeto e execute:
 - $ source requirements.sh
 
-## Para desativar e reinstalar o ambietnte virtual, execute:
+## Para desativar e reinstalar o ambiente virtual, execute:
 - $ source reinstall.sh
 
 ## Iniciando o programa
